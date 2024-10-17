@@ -1,6 +1,6 @@
 # Fall24_G1
 
-## Members of Group one:
+  # Members of Group one:
      Dudly Andre
      
      Demario Jackson
@@ -9,20 +9,20 @@
      
      Danish Naeem Rao
 
-## Submissions
-  Dudley Andre,  https://github.com/andredudley/CSCI4211AD (empty)
+  # Submissions
+    Dudley Andre,  https://github.com/andredudley/CSCI4211AD (empty)
   
-  Demario Jackson, https://github.com/demariojackson/CSCI4221
+    Demario Jackson, https://github.com/demariojackson/CSCI4221
   
-  Daylon Anderson, https://github.com/dander43/CSCI4221-Anderson
+    Daylon Anderson, https://github.com/dander43/CSCI4221-Anderson
   
-  Danish Naeem Rao, No link
+    Danish Naeem Rao, No link
 
-## Combined information
+  # Combined information
 
-    ### Dudly Andre
+    # Dudly Andre
 
-    ### Demario Jackson
+    # Demario Jackson
         hello, my name is demario jackson
 
         this is the second *paragraph *
@@ -32,7 +32,7 @@
         About me
         My name is Demario Jackson and I'm currently looking for an internship in the Computer Science field.
         
-    ### Daylon Anderson
+    # Daylon Anderson
      
         Welcome to my page!
 
@@ -40,4 +40,4 @@
 
         cfdsgsafsgdhsafdshgf
      
-     ### Danish Naeem Rao
+     # Danish Naeem Rao
