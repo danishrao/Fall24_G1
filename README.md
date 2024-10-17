@@ -1,4 +1,4 @@
-# Fall24_G1
+# Fall24, GROUP ONE
 
   # Members of Group one:
      Dudly Andre
