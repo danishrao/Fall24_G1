@@ -2,10 +2,10 @@
 
   # Members of Group one:
      Dudly Andre
-     
-     Demario Jackson
-     
+         
      Daylon Anderson
+
+     Demario Jackson
      
      Danish Naeem Rao
 
