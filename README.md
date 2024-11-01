@@ -41,3 +41,4 @@
         cfdsgsafsgdhsafdshgf
      
      # Danish Naeem Rao
+       hello, my name is Danish Naeem Rao and my role in this project is to do the AI-Powered Notes Summarizer.
